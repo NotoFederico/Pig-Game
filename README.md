@@ -24,6 +24,11 @@
 
 # 1. Introduction
 
+
+---
+
+# 2. How To Play
+
 Cada turno, un jugador repetidamente tira un dado hasta que obtiene un 1 o hasta que el jugador decide holdear su puntaje parcial.
 
 - Si el jugador obtiene un 1, el puntaje parcial se hace 0 y comienza el turno del jugador oponente.
@@ -33,11 +38,9 @@ Cada turno, un jugador repetidamente tira un dado hasta que obtiene un 1 o hasta
 
 ---
 
-# 2. How To Play
-
----
-
 # 3. Game Link
+
+https://notoapps.firebaseapp.com/webapps/Pig-Game/index.html
 
 ---
 
