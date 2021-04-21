@@ -48,3 +48,5 @@ https://notoapps.firebaseapp.com/webapps/Pig-Game/index.html
 
 ---
 # 5. Licence
+Pig Game is licensed under the GNU General Public License version 3.
+
