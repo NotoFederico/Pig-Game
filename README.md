@@ -1,5 +1,7 @@
 # The Pig Game
 
+Pig Game is a dice game in which the first who scores 100 or more points, wins.
+
 ---
 
 ![Project.Cover](https://notoapps.firebaseapp.com/images/portfolios/PigGame.png)
@@ -24,17 +26,19 @@
 
 # 1. Introduction
 
+Pig Game is a dice game in which the first who scores 100 or more points, wins.
 
 ---
 
 # 2. How To Play
 
-Cada turno, un jugador repetidamente tira un dado hasta que obtiene un 1 o hasta que el jugador decide holdear su puntaje parcial.
+Each turn, you can roll a die until a 1 is rolled (and you lose your turn) or you can hold your current score: 
 
-- Si el jugador obtiene un 1, el puntaje parcial se hace 0 y comienza el turno del jugador oponente.
-- Si el jugador obtiene cualquier otro numero, se suma dicho numero a su puntaje parcial y su turno continua.
-- Si el jugado elije holdear su puntaje parcial, se agrega el mismo a su puntaje total y comienza el turno del jugador opoenente.
-- El primer jugador en llegar a 100 puntos o más, gana.
+Roll - If the player rolls a 1: You score nothing and lose your turn. 
+
+2 - 6: The number is added to your current score and your turn continues. 
+
+Hold - The current total is added to your score and the turn changes.
 
 ---
 
