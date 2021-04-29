@@ -4,8 +4,7 @@ Pig Game is a dice game in which the first who scores 100 or more points, wins.
 
 ---
 
-![Project.Cover](https://notoapps.firebaseapp.com/images/portfolios/PigGame.png =400x)
-<img src="https://notoapps.firebaseapp.com/images/portfolios/PigGame.png" width="200" height="200" />
+<img src="https://notoapps.firebaseapp.com/images/portfolios/PigGame.png" width="600" height="400" />
 
 ---
 
