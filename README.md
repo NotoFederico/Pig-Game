@@ -50,6 +50,8 @@ https://notoapps.firebaseapp.com/webapps/Pig-Game/index.html
 
 # 4. Contributing
 
+Pig Game uses the gitflow workflow. If you are implementing a new feature or logic from the original game, please branch off and perform pull requests to develop. If you are fixing a bug for the next release, please branch off and perform pull requests to the correct release branch. master only contains tagged releases, you should never branch off this.
+
 ---
 # 5. Licence
 Pig Game is licensed under the GNU General Public License version 3.
